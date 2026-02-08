@@ -1,12 +1,6 @@
-# Projet final Scala (Programmation Fonctionnelle) — Pipeline ETL (Football Players)
-
-**Réalisé par Gibril KHARFALLAH & Ward KHALIFE**
+# Goalytics
 
 Pipeline ETL complet en Scala 3 pour l'analyse de données de joueurs de football.
-
-## 📊 Dataset choisi
-
-**Football Players** (`2-football-players`)
 
 Le projet implémente un pipeline ETL complet :
 
