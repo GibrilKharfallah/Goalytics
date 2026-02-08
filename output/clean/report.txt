@@ -1,0 +1,146 @@
+===============================================
+   RAPPORT D'ANALYSE - JOUEURS DE FOOTBALL
+===============================================
+
+STATISTIQUES DE PARSING
+---------------------------
+- Total entrees (JSON)      : 100
+- Erreurs de parsing        : 0
+- Objets invalides          : 0
+- Doublons supprimes        : 0
+- Total valides             : 100
+
+TOP 10 - BUTEURS
+-------------------
+1. João Fernandes : 45 buts en 17 matchs
+2. Neymar Rice : 43 buts en 28 matchs
+3. Phil Salah : 42 buts en 18 matchs
+4. Romelu De Bruyne : 38 buts en 30 matchs
+5. Vinicius Alexander-Arnold : 37 buts en 21 matchs
+6. Declan Jr : 33 buts en 20 matchs
+7. N'Golo Haaland : 31 buts en 10 matchs
+8. Phil Griezmann : 31 buts en 18 matchs
+9. Robert Alexander-Arnold : 31 buts en 38 matchs
+10. Neymar Courtois : 26 buts en 22 matchs
+
+TOP 10 - PASSEURS
+---------------------
+1. Jack Silva : 20 passes en 29 matchs
+2. Jadon Rice : 20 passes en 36 matchs
+3. Erling Grealish : 19 passes en 15 matchs
+4. João Felix Kane : 19 passes en 17 matchs
+5. João Salah : 19 passes en 38 matchs
+6. Rúben Bellingham : 18 passes en 37 matchs
+7. Pedri Kane : 17 passes en 29 matchs
+8. Erling van Dijk : 17 passes en 30 matchs
+9. Lionel Lewandowski : 16 passes en 18 matchs
+10. Sergio Courtois : 16 passes en 22 matchs
+
+TOP 10 - VALEUR MARCHANDE
+-----------------------------
+1. Vinicius Alexander-Arnold : 179.0 M
+2. João Fernandes : 174.0 M
+3. Pedri Ronaldo : 174.0 M
+4. Raheem Alexander-Arnold : 173.0 M
+5. Robert Alexander-Arnold : 172.0 M
+6. Rúben Silva : 170.0 M
+7. Jack Silva : 167.0 M
+8. Joshua González : 159.0 M
+9. Sergio Páez : 150.0 M
+10. Jack Mbappé : 147.0 M
+
+TOP 10 - SALAIRES
+--------------------
+1. Romelu Bellingham : 48.5 M/an
+2. Declan Kimmich : 48.4 M/an
+3. Rúben Bellingham : 48.3 M/an
+4. Eduardo Mané : 46.9 M/an
+5. Kevin Courtois : 46.5 M/an
+6. Kylian Cancelo : 46.3 M/an
+7. Kevin Griezmann : 46.1 M/an
+8. Mason Ramos : 43.4 M/an
+9. Bruno Rashford : 42.8 M/an
+10. Phil Salah : 42.2 M/an
+
+REPARTITION PAR LIGUE
+-------------------------
+
+- Ligue 1 : 25 joueurs
+- Bundesliga : 12 joueurs
+- Serie A : 18 joueurs
+- La Liga : 20 joueurs
+- Premier League : 25 joueurs
+
+REPARTITION PAR POSTE
+------------------------
+
+- Midfielder : 23 joueurs
+- Forward : 28 joueurs
+- Goalkeeper : 24 joueurs
+- Defender : 25 joueurs
+
+MOYENNES PAR POSTE
+----------------------
+AGE MOYEN :
+- Midfielder : 26.57 ans
+- Forward : 27.07 ans
+- Goalkeeper : 27.88 ans
+- Defender : 29.04 ans
+
+BUTS PAR MATCH (moyenne) :
+- Midfielder : 0.39 buts
+- Forward : 0.97 buts
+- Goalkeeper : 0.00 buts
+- Defender : 0.15 buts
+
+DISCIPLINE
+--------------
+- Total cartons jaunes      : 473
+- Total cartons rouges      : 95
+- Poste le plus discipline  : Midfielder
+- Poste le moins discipline : Goalkeeper
+
+BONUS STATS
+--------------------------
+TOP 10 - GOAL CONTRIBUTION / MATCH (buts + passes)
+1. N'Golo Haaland : 31 + 13 en 10 (=4.400 / match)
+2. João Fernandes : 45 + 15 en 17 (=3.529 / match)
+3. Phil Salah : 42 + 8 en 18 (=2.778 / match)
+4. Vinicius Alexander-Arnold : 37 + 15 en 21 (=2.476 / match)
+5. Phil Griezmann : 31 + 10 en 18 (=2.278 / match)
+6. Pedri Páez : 13 + 15 en 13 (=2.154 / match)
+7. Declan Jr : 33 + 10 en 20 (=2.150 / match)
+8. Antoine Camavinga : 17 + 10 en 13 (=2.077 / match)
+9. Lionel Lewandowski : 18 + 16 en 18 (=1.889 / match)
+10. Erling Grealish : 9 + 19 en 15 (=1.867 / match)
+
+TOP 10 - DISCIPLINE RISK / MATCH (jaunes + 3*rouges)
+1. Jack Mbappé : 10 jaunes, 2 rouges en 13 (risk=1.231 / match)
+2. Kylian Griezmann : 6 jaunes, 1 rouges en 10 (risk=0.900 / match)
+3. Bruno van Dijk : 6 jaunes, 2 rouges en 15 (risk=0.800 / match)
+4. João Felix Kane : 10 jaunes, 1 rouges en 17 (risk=0.765 / match)
+5. Declan Jr : 9 jaunes, 2 rouges en 20 (risk=0.750 / match)
+6. Neymar Courtois : 8 jaunes, 2 rouges en 22 (risk=0.636 / match)
+7. Romelu Bellingham : 8 jaunes, 2 rouges en 22 (risk=0.636 / match)
+8. João Dias : 8 jaunes, 0 rouges en 13 (risk=0.615 / match)
+9. Sadio Camavinga : 9 jaunes, 2 rouges en 25 (risk=0.600 / match)
+10. Jude Ronaldo : 7 jaunes, 2 rouges en 22 (risk=0.591 / match)
+
+TOP 10 - VALUE FOR MONEY ((buts+passes)/salaire)
+1. Neymar Ramos : (G+A)=25, salaire=1.30 M -> 19.231 contrib/M
+2. João Fernandes : (G+A)=60, salaire=5.20 M -> 11.538 contrib/M
+3. Eduardo Heung-min : (G+A)=30, salaire=5.50 M -> 5.455 contrib/M
+4. Vinicius Alexander-Arnold : (G+A)=52, salaire=10.50 M -> 4.952 contrib/M
+5. Pedri Ronaldo : (G+A)=19, salaire=4.10 M -> 4.634 contrib/M
+6. Jack Silva : (G+A)=24, salaire=5.30 M -> 4.528 contrib/M
+7. Romelu De Bruyne : (G+A)=43, salaire=13.10 M -> 3.282 contrib/M
+8. Erling van Dijk : (G+A)=24, salaire=8.10 M -> 2.963 contrib/M
+9. Erling Silva : (G+A)=29, salaire=12.40 M -> 2.339 contrib/M
+10. Phil Griezmann : (G+A)=41, salaire=20.30 M -> 2.020 contrib/M
+
+PERFORMANCE
+---------------
+- Temps de traitement       : 0.689 secondes
+- Entrees/seconde           : 145.22
+
+===============================================

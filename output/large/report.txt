@@ -1,0 +1,146 @@
+===============================================
+   RAPPORT D'ANALYSE - JOUEURS DE FOOTBALL
+===============================================
+
+STATISTIQUES DE PARSING
+---------------------------
+- Total entrees (JSON)      : 10000
+- Erreurs de parsing        : 0
+- Objets invalides          : 0
+- Doublons supprimes        : 0
+- Total valides             : 10000
+
+TOP 10 - BUTEURS
+-------------------
+1. João Fernandes : 45 buts en 17 matchs
+2. João Fernandes 1 : 45 buts en 17 matchs
+3. João Fernandes 2 : 45 buts en 17 matchs
+4. João Fernandes 3 : 45 buts en 17 matchs
+5. João Fernandes 4 : 45 buts en 17 matchs
+6. João Fernandes 5 : 45 buts en 17 matchs
+7. João Fernandes 6 : 45 buts en 17 matchs
+8. João Fernandes 7 : 45 buts en 17 matchs
+9. João Fernandes 8 : 45 buts en 17 matchs
+10. João Fernandes 9 : 45 buts en 17 matchs
+
+TOP 10 - PASSEURS
+---------------------
+1. Jack Silva : 20 passes en 29 matchs
+2. Jack Silva 1 : 20 passes en 29 matchs
+3. Jack Silva 2 : 20 passes en 29 matchs
+4. Jack Silva 3 : 20 passes en 29 matchs
+5. Jack Silva 4 : 20 passes en 29 matchs
+6. Jack Silva 5 : 20 passes en 29 matchs
+7. Jack Silva 6 : 20 passes en 29 matchs
+8. Jack Silva 7 : 20 passes en 29 matchs
+9. Jack Silva 8 : 20 passes en 29 matchs
+10. Jack Silva 9 : 20 passes en 29 matchs
+
+TOP 10 - VALEUR MARCHANDE
+-----------------------------
+1. Vinicius Alexander-Arnold : 179.0 M
+2. Vinicius Alexander-Arnold 1 : 179.0 M
+3. Vinicius Alexander-Arnold 2 : 179.0 M
+4. Vinicius Alexander-Arnold 3 : 179.0 M
+5. Vinicius Alexander-Arnold 4 : 179.0 M
+6. Vinicius Alexander-Arnold 5 : 179.0 M
+7. Vinicius Alexander-Arnold 6 : 179.0 M
+8. Vinicius Alexander-Arnold 7 : 179.0 M
+9. Vinicius Alexander-Arnold 8 : 179.0 M
+10. Vinicius Alexander-Arnold 9 : 179.0 M
+
+TOP 10 - SALAIRES
+--------------------
+1. Romelu Bellingham : 48.5 M/an
+2. Romelu Bellingham 1 : 48.5 M/an
+3. Romelu Bellingham 2 : 48.5 M/an
+4. Romelu Bellingham 3 : 48.5 M/an
+5. Romelu Bellingham 4 : 48.5 M/an
+6. Romelu Bellingham 5 : 48.5 M/an
+7. Romelu Bellingham 6 : 48.5 M/an
+8. Romelu Bellingham 7 : 48.5 M/an
+9. Romelu Bellingham 8 : 48.5 M/an
+10. Romelu Bellingham 9 : 48.5 M/an
+
+REPARTITION PAR LIGUE
+-------------------------
+
+- Ligue 1 : 2500 joueurs
+- Bundesliga : 1200 joueurs
+- Serie A : 1800 joueurs
+- La Liga : 2000 joueurs
+- Premier League : 2500 joueurs
+
+REPARTITION PAR POSTE
+------------------------
+
+- Midfielder : 2300 joueurs
+- Forward : 2800 joueurs
+- Goalkeeper : 2400 joueurs
+- Defender : 2500 joueurs
+
+MOYENNES PAR POSTE
+----------------------
+AGE MOYEN :
+- Midfielder : 26.57 ans
+- Forward : 27.07 ans
+- Goalkeeper : 27.88 ans
+- Defender : 29.04 ans
+
+BUTS PAR MATCH (moyenne) :
+- Midfielder : 0.39 buts
+- Forward : 0.97 buts
+- Goalkeeper : 0.00 buts
+- Defender : 0.15 buts
+
+DISCIPLINE
+--------------
+- Total cartons jaunes      : 47300
+- Total cartons rouges      : 9500
+- Poste le plus discipline  : Midfielder
+- Poste le moins discipline : Goalkeeper
+
+BONUS STATS
+--------------------------
+TOP 10 - GOAL CONTRIBUTION / MATCH (buts + passes)
+1. N'Golo Haaland : 31 + 13 en 10 (=4.400 / match)
+2. N'Golo Haaland 1 : 31 + 13 en 10 (=4.400 / match)
+3. N'Golo Haaland 2 : 31 + 13 en 10 (=4.400 / match)
+4. N'Golo Haaland 3 : 31 + 13 en 10 (=4.400 / match)
+5. N'Golo Haaland 4 : 31 + 13 en 10 (=4.400 / match)
+6. N'Golo Haaland 5 : 31 + 13 en 10 (=4.400 / match)
+7. N'Golo Haaland 6 : 31 + 13 en 10 (=4.400 / match)
+8. N'Golo Haaland 7 : 31 + 13 en 10 (=4.400 / match)
+9. N'Golo Haaland 8 : 31 + 13 en 10 (=4.400 / match)
+10. N'Golo Haaland 9 : 31 + 13 en 10 (=4.400 / match)
+
+TOP 10 - DISCIPLINE RISK / MATCH (jaunes + 3*rouges)
+1. Jack Mbappé : 10 jaunes, 2 rouges en 13 (risk=1.231 / match)
+2. Jack Mbappé 1 : 10 jaunes, 2 rouges en 13 (risk=1.231 / match)
+3. Jack Mbappé 2 : 10 jaunes, 2 rouges en 13 (risk=1.231 / match)
+4. Jack Mbappé 3 : 10 jaunes, 2 rouges en 13 (risk=1.231 / match)
+5. Jack Mbappé 4 : 10 jaunes, 2 rouges en 13 (risk=1.231 / match)
+6. Jack Mbappé 5 : 10 jaunes, 2 rouges en 13 (risk=1.231 / match)
+7. Jack Mbappé 6 : 10 jaunes, 2 rouges en 13 (risk=1.231 / match)
+8. Jack Mbappé 7 : 10 jaunes, 2 rouges en 13 (risk=1.231 / match)
+9. Jack Mbappé 8 : 10 jaunes, 2 rouges en 13 (risk=1.231 / match)
+10. Jack Mbappé 9 : 10 jaunes, 2 rouges en 13 (risk=1.231 / match)
+
+TOP 10 - VALUE FOR MONEY ((buts+passes)/salaire)
+1. Neymar Ramos : (G+A)=25, salaire=1.30 M -> 19.231 contrib/M
+2. Neymar Ramos 1 : (G+A)=25, salaire=1.30 M -> 19.231 contrib/M
+3. Neymar Ramos 2 : (G+A)=25, salaire=1.30 M -> 19.231 contrib/M
+4. Neymar Ramos 3 : (G+A)=25, salaire=1.30 M -> 19.231 contrib/M
+5. Neymar Ramos 4 : (G+A)=25, salaire=1.30 M -> 19.231 contrib/M
+6. Neymar Ramos 5 : (G+A)=25, salaire=1.30 M -> 19.231 contrib/M
+7. Neymar Ramos 6 : (G+A)=25, salaire=1.30 M -> 19.231 contrib/M
+8. Neymar Ramos 7 : (G+A)=25, salaire=1.30 M -> 19.231 contrib/M
+9. Neymar Ramos 8 : (G+A)=25, salaire=1.30 M -> 19.231 contrib/M
+10. Neymar Ramos 9 : (G+A)=25, salaire=1.30 M -> 19.231 contrib/M
+
+PERFORMANCE
+---------------
+- Temps de traitement       : 0.653 secondes
+- Entrees/seconde           : 15319.87
+
+===============================================

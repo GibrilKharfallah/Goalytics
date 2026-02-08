@@ -1,0 +1,513 @@
+{
+  "statistics" : {
+    "total_players_parsed" : 500,
+    "total_players_valid" : 100,
+    "parsing_errors" : 9,
+    "duplicates_removed" : 328
+  },
+  "top_10_scorers" : [
+    {
+      "name" : "João Fernandes",
+      "club" : "Tottenham",
+      "goals" : 45,
+      "matches" : 17
+    },
+    {
+      "name" : "Neymar Rice",
+      "club" : "Borussia Dortmund",
+      "goals" : 43,
+      "matches" : 28
+    },
+    {
+      "name" : "Phil Salah",
+      "club" : "Sevilla",
+      "goals" : 42,
+      "matches" : 18
+    },
+    {
+      "name" : "Romelu De Bruyne",
+      "club" : "Bayern Munich",
+      "goals" : 38,
+      "matches" : 30
+    },
+    {
+      "name" : "Vinicius Alexander-Arnold",
+      "club" : "RB Leipzig",
+      "goals" : 37,
+      "matches" : 21
+    },
+    {
+      "name" : "Declan Jr",
+      "club" : "Borussia Dortmund",
+      "goals" : 33,
+      "matches" : 20
+    },
+    {
+      "name" : "N'Golo Haaland",
+      "club" : "Union Berlin",
+      "goals" : 31,
+      "matches" : 10
+    },
+    {
+      "name" : "Phil Griezmann",
+      "club" : "Newcastle",
+      "goals" : 31,
+      "matches" : 18
+    },
+    {
+      "name" : "Robert Alexander-Arnold",
+      "club" : "AC Milan",
+      "goals" : 31,
+      "matches" : 38
+    },
+    {
+      "name" : "Neymar Courtois",
+      "club" : "Valencia",
+      "goals" : 26,
+      "matches" : 22
+    }
+  ],
+  "top_10_assisters" : [
+    {
+      "name" : "Jack Silva",
+      "club" : "Roma",
+      "assists" : 20,
+      "matches" : 29
+    },
+    {
+      "name" : "Jadon Rice",
+      "club" : "Real Betis",
+      "assists" : 20,
+      "matches" : 36
+    },
+    {
+      "name" : "Erling Grealish",
+      "club" : "Marseille",
+      "assists" : 19,
+      "matches" : 15
+    },
+    {
+      "name" : "João Felix Kane",
+      "club" : "Newcastle",
+      "assists" : 19,
+      "matches" : 17
+    },
+    {
+      "name" : "João Salah",
+      "club" : "Manchester City",
+      "assists" : 19,
+      "matches" : 38
+    },
+    {
+      "name" : "Rúben Bellingham",
+      "club" : "Liverpool",
+      "assists" : 18,
+      "matches" : 37
+    },
+    {
+      "name" : "Pedri Kane",
+      "club" : "Lyon",
+      "assists" : 17,
+      "matches" : 29
+    },
+    {
+      "name" : "Erling van Dijk",
+      "club" : "Lazio",
+      "assists" : 17,
+      "matches" : 30
+    },
+    {
+      "name" : "Lionel Lewandowski",
+      "club" : "Arsenal",
+      "assists" : 16,
+      "matches" : 18
+    },
+    {
+      "name" : "Sergio Courtois",
+      "club" : "Napoli",
+      "assists" : 16,
+      "matches" : 22
+    }
+  ],
+  "most_valuable_players" : [
+    {
+      "name" : "Pedri Ronaldo",
+      "club" : "Real Madrid",
+      "marketValue" : 174.0
+    },
+    {
+      "name" : "João Fernandes",
+      "club" : "Tottenham",
+      "marketValue" : 174.0
+    },
+    {
+      "name" : "Raheem Alexander-Arnold",
+      "club" : "Napoli",
+      "marketValue" : 173.0
+    },
+    {
+      "name" : "Robert Alexander-Arnold",
+      "club" : "AC Milan",
+      "marketValue" : 172.0
+    },
+    {
+      "name" : "Rúben Silva",
+      "club" : "Valencia",
+      "marketValue" : 170.0
+    },
+    {
+      "name" : "Jack Silva",
+      "club" : "Roma",
+      "marketValue" : 167.0
+    },
+    {
+      "name" : "Joshua González",
+      "club" : "Tottenham",
+      "marketValue" : 159.0
+    },
+    {
+      "name" : "Sergio Páez",
+      "club" : "Manchester United",
+      "marketValue" : 150.0
+    },
+    {
+      "name" : "Jack Mbappé",
+      "club" : "Tottenham",
+      "marketValue" : 147.0
+    },
+    {
+      "name" : "Mason Foden",
+      "club" : "Inter Milan",
+      "marketValue" : 137.0
+    }
+  ],
+  "highest_paid_players" : [
+    {
+      "name" : "Romelu Bellingham",
+      "club" : "Nice",
+      "salary" : 48.5
+    },
+    {
+      "name" : "Declan Kimmich",
+      "club" : "Sevilla",
+      "salary" : 48.4
+    },
+    {
+      "name" : "Rúben Bellingham",
+      "club" : "Liverpool",
+      "salary" : 48.3
+    },
+    {
+      "name" : "Eduardo Mané",
+      "club" : "Monaco",
+      "salary" : 46.9
+    },
+    {
+      "name" : "Kevin Courtois",
+      "club" : "Juventus",
+      "salary" : 46.5
+    },
+    {
+      "name" : "Kylian Cancelo",
+      "club" : "Inter Milan",
+      "salary" : 46.3
+    },
+    {
+      "name" : "Kevin Griezmann",
+      "club" : "Lille",
+      "salary" : 46.1
+    },
+    {
+      "name" : "Mason Ramos",
+      "club" : "Monaco",
+      "salary" : 43.4
+    },
+    {
+      "name" : "Bruno Rashford",
+      "club" : "Arsenal",
+      "salary" : 42.8
+    },
+    {
+      "name" : "Phil Salah",
+      "club" : "Sevilla",
+      "salary" : 42.2
+    }
+  ],
+  "players_by_league" : {
+    "Ligue 1" : 25,
+    "Bundesliga" : 12,
+    "Serie A" : 18,
+    "La Liga" : 20,
+    "Premier League" : 25
+  },
+  "players_by_position" : {
+    "Midfielder" : 23,
+    "Forward" : 28,
+    "Goalkeeper" : 24,
+    "Defender" : 25
+  },
+  "average_age_by_position" : {
+    "Midfielder" : 26.565217391304348,
+    "Forward" : 27.071428571428573,
+    "Goalkeeper" : 27.875,
+    "Defender" : 29.04
+  },
+  "average_goals_by_position" : {
+    "Midfielder" : 0.3862520458265139,
+    "Forward" : 0.9694189602446484,
+    "Goalkeeper" : 0.0,
+    "Defender" : 0.15275813295615276
+  },
+  "discipline_statistics" : {
+    "total_yellow_cards" : 473,
+    "total_red_cards" : 95,
+    "most_disciplined_position" : "Midfielder",
+    "least_disciplined_position" : "Goalkeeper"
+  },
+  "top_goal_contribution_per_match" : [
+    {
+      "name" : "N'Golo Haaland",
+      "club" : "Union Berlin",
+      "goals" : 31,
+      "assists" : 13,
+      "matches" : 10,
+      "contribution_per_match" : 4.4
+    },
+    {
+      "name" : "João Fernandes",
+      "club" : "Tottenham",
+      "goals" : 45,
+      "assists" : 15,
+      "matches" : 17,
+      "contribution_per_match" : 3.5294117647058822
+    },
+    {
+      "name" : "Phil Salah",
+      "club" : "Sevilla",
+      "goals" : 42,
+      "assists" : 8,
+      "matches" : 18,
+      "contribution_per_match" : 2.7777777777777777
+    },
+    {
+      "name" : "Vinicius Alexander-Arnold",
+      "club" : "RB Leipzig",
+      "goals" : 37,
+      "assists" : 15,
+      "matches" : 21,
+      "contribution_per_match" : 2.4761904761904763
+    },
+    {
+      "name" : "Phil Griezmann",
+      "club" : "Newcastle",
+      "goals" : 31,
+      "assists" : 10,
+      "matches" : 18,
+      "contribution_per_match" : 2.2777777777777777
+    },
+    {
+      "name" : "Pedri Páez",
+      "club" : "AC Milan",
+      "goals" : 13,
+      "assists" : 15,
+      "matches" : 13,
+      "contribution_per_match" : 2.1538461538461537
+    },
+    {
+      "name" : "Declan Jr",
+      "club" : "Borussia Dortmund",
+      "goals" : 33,
+      "assists" : 10,
+      "matches" : 20,
+      "contribution_per_match" : 2.15
+    },
+    {
+      "name" : "Antoine Camavinga",
+      "club" : "Tottenham",
+      "goals" : 17,
+      "assists" : 10,
+      "matches" : 13,
+      "contribution_per_match" : 2.076923076923077
+    },
+    {
+      "name" : "Lionel Lewandowski",
+      "club" : "Arsenal",
+      "goals" : 18,
+      "assists" : 16,
+      "matches" : 18,
+      "contribution_per_match" : 1.8888888888888888
+    },
+    {
+      "name" : "Erling Grealish",
+      "club" : "Marseille",
+      "goals" : 9,
+      "assists" : 19,
+      "matches" : 15,
+      "contribution_per_match" : 1.8666666666666667
+    }
+  ],
+  "top_discipline_risk_per_match" : [
+    {
+      "name" : "Jack Mbappé",
+      "club" : "Tottenham",
+      "yellow" : 10,
+      "red" : 2,
+      "matches" : 13,
+      "risk_per_match" : 1.2307692307692308
+    },
+    {
+      "name" : "Kylian Griezmann",
+      "club" : "Napoli",
+      "yellow" : 6,
+      "red" : 1,
+      "matches" : 10,
+      "risk_per_match" : 0.9
+    },
+    {
+      "name" : "Bruno van Dijk",
+      "club" : "Manchester United",
+      "yellow" : 6,
+      "red" : 2,
+      "matches" : 15,
+      "risk_per_match" : 0.8
+    },
+    {
+      "name" : "João Felix Kane",
+      "club" : "Newcastle",
+      "yellow" : 10,
+      "red" : 1,
+      "matches" : 17,
+      "risk_per_match" : 0.7647058823529411
+    },
+    {
+      "name" : "Declan Jr",
+      "club" : "Borussia Dortmund",
+      "yellow" : 9,
+      "red" : 2,
+      "matches" : 20,
+      "risk_per_match" : 0.75
+    },
+    {
+      "name" : "Romelu Bellingham",
+      "club" : "Nice",
+      "yellow" : 8,
+      "red" : 2,
+      "matches" : 22,
+      "risk_per_match" : 0.6363636363636364
+    },
+    {
+      "name" : "Neymar Courtois",
+      "club" : "Valencia",
+      "yellow" : 8,
+      "red" : 2,
+      "matches" : 22,
+      "risk_per_match" : 0.6363636363636364
+    },
+    {
+      "name" : "João Dias",
+      "club" : "Lyon",
+      "yellow" : 8,
+      "red" : 0,
+      "matches" : 13,
+      "risk_per_match" : 0.6153846153846154
+    },
+    {
+      "name" : "Sadio Camavinga",
+      "club" : "Newcastle",
+      "yellow" : 9,
+      "red" : 2,
+      "matches" : 25,
+      "risk_per_match" : 0.6
+    },
+    {
+      "name" : "Jude Ronaldo",
+      "club" : "Tottenham",
+      "yellow" : 7,
+      "red" : 2,
+      "matches" : 22,
+      "risk_per_match" : 0.5909090909090909
+    }
+  ],
+  "best_value_for_money" : [
+    {
+      "name" : "Neymar Ramos",
+      "club" : "Real Betis",
+      "goals" : 17,
+      "assists" : 8,
+      "salary" : 1.3,
+      "contrib_per_million" : 19.23076923076923
+    },
+    {
+      "name" : "João Fernandes",
+      "club" : "Tottenham",
+      "goals" : 45,
+      "assists" : 15,
+      "salary" : 5.2,
+      "contrib_per_million" : 11.538461538461538
+    },
+    {
+      "name" : "Eduardo Heung-min",
+      "club" : "Atletico Madrid",
+      "goals" : 17,
+      "assists" : 13,
+      "salary" : 5.5,
+      "contrib_per_million" : 5.454545454545454
+    },
+    {
+      "name" : "Vinicius Alexander-Arnold",
+      "club" : "RB Leipzig",
+      "goals" : 37,
+      "assists" : 15,
+      "salary" : 10.5,
+      "contrib_per_million" : 4.9523809523809526
+    },
+    {
+      "name" : "Pedri Ronaldo",
+      "club" : "Real Madrid",
+      "goals" : 3,
+      "assists" : 16,
+      "salary" : 4.1,
+      "contrib_per_million" : 4.634146341463415
+    },
+    {
+      "name" : "Jack Silva",
+      "club" : "Roma",
+      "goals" : 4,
+      "assists" : 20,
+      "salary" : 5.3,
+      "contrib_per_million" : 4.528301886792453
+    },
+    {
+      "name" : "Romelu De Bruyne",
+      "club" : "Bayern Munich",
+      "goals" : 38,
+      "assists" : 5,
+      "salary" : 13.1,
+      "contrib_per_million" : 3.282442748091603
+    },
+    {
+      "name" : "Erling Silva",
+      "club" : "Monaco",
+      "goals" : 16,
+      "assists" : 13,
+      "salary" : 12.4,
+      "contrib_per_million" : 2.338709677419355
+    },
+    {
+      "name" : "Phil Griezmann",
+      "club" : "Newcastle",
+      "goals" : 31,
+      "assists" : 10,
+      "salary" : 20.3,
+      "contrib_per_million" : 2.019704433497537
+    },
+    {
+      "name" : "Romelu Jr",
+      "club" : "Monaco",
+      "goals" : 0,
+      "assists" : 4,
+      "salary" : 2.1,
+      "contrib_per_million" : 1.9047619047619047
+    }
+  ]
+}

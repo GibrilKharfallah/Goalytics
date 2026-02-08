@@ -1,0 +1,513 @@
+{
+  "statistics" : {
+    "total_players_parsed" : 10000,
+    "total_players_valid" : 10000,
+    "parsing_errors" : 0,
+    "duplicates_removed" : 0
+  },
+  "top_10_scorers" : [
+    {
+      "name" : "João Fernandes",
+      "club" : "Tottenham",
+      "goals" : 45,
+      "matches" : 17
+    },
+    {
+      "name" : "João Fernandes 1",
+      "club" : "Tottenham",
+      "goals" : 45,
+      "matches" : 17
+    },
+    {
+      "name" : "João Fernandes 2",
+      "club" : "Tottenham",
+      "goals" : 45,
+      "matches" : 17
+    },
+    {
+      "name" : "João Fernandes 3",
+      "club" : "Tottenham",
+      "goals" : 45,
+      "matches" : 17
+    },
+    {
+      "name" : "João Fernandes 4",
+      "club" : "Tottenham",
+      "goals" : 45,
+      "matches" : 17
+    },
+    {
+      "name" : "João Fernandes 5",
+      "club" : "Tottenham",
+      "goals" : 45,
+      "matches" : 17
+    },
+    {
+      "name" : "João Fernandes 6",
+      "club" : "Tottenham",
+      "goals" : 45,
+      "matches" : 17
+    },
+    {
+      "name" : "João Fernandes 7",
+      "club" : "Tottenham",
+      "goals" : 45,
+      "matches" : 17
+    },
+    {
+      "name" : "João Fernandes 8",
+      "club" : "Tottenham",
+      "goals" : 45,
+      "matches" : 17
+    },
+    {
+      "name" : "João Fernandes 9",
+      "club" : "Tottenham",
+      "goals" : 45,
+      "matches" : 17
+    }
+  ],
+  "top_10_assisters" : [
+    {
+      "name" : "Jack Silva",
+      "club" : "Roma",
+      "assists" : 20,
+      "matches" : 29
+    },
+    {
+      "name" : "Jack Silva 1",
+      "club" : "Roma",
+      "assists" : 20,
+      "matches" : 29
+    },
+    {
+      "name" : "Jack Silva 2",
+      "club" : "Roma",
+      "assists" : 20,
+      "matches" : 29
+    },
+    {
+      "name" : "Jack Silva 3",
+      "club" : "Roma",
+      "assists" : 20,
+      "matches" : 29
+    },
+    {
+      "name" : "Jack Silva 4",
+      "club" : "Roma",
+      "assists" : 20,
+      "matches" : 29
+    },
+    {
+      "name" : "Jack Silva 5",
+      "club" : "Roma",
+      "assists" : 20,
+      "matches" : 29
+    },
+    {
+      "name" : "Jack Silva 6",
+      "club" : "Roma",
+      "assists" : 20,
+      "matches" : 29
+    },
+    {
+      "name" : "Jack Silva 7",
+      "club" : "Roma",
+      "assists" : 20,
+      "matches" : 29
+    },
+    {
+      "name" : "Jack Silva 8",
+      "club" : "Roma",
+      "assists" : 20,
+      "matches" : 29
+    },
+    {
+      "name" : "Jack Silva 9",
+      "club" : "Roma",
+      "assists" : 20,
+      "matches" : 29
+    }
+  ],
+  "most_valuable_players" : [
+    {
+      "name" : "Vinicius Alexander-Arnold",
+      "club" : "RB Leipzig",
+      "marketValue" : 179.0
+    },
+    {
+      "name" : "Vinicius Alexander-Arnold 1",
+      "club" : "RB Leipzig",
+      "marketValue" : 179.0
+    },
+    {
+      "name" : "Vinicius Alexander-Arnold 2",
+      "club" : "RB Leipzig",
+      "marketValue" : 179.0
+    },
+    {
+      "name" : "Vinicius Alexander-Arnold 3",
+      "club" : "RB Leipzig",
+      "marketValue" : 179.0
+    },
+    {
+      "name" : "Vinicius Alexander-Arnold 4",
+      "club" : "RB Leipzig",
+      "marketValue" : 179.0
+    },
+    {
+      "name" : "Vinicius Alexander-Arnold 5",
+      "club" : "RB Leipzig",
+      "marketValue" : 179.0
+    },
+    {
+      "name" : "Vinicius Alexander-Arnold 6",
+      "club" : "RB Leipzig",
+      "marketValue" : 179.0
+    },
+    {
+      "name" : "Vinicius Alexander-Arnold 7",
+      "club" : "RB Leipzig",
+      "marketValue" : 179.0
+    },
+    {
+      "name" : "Vinicius Alexander-Arnold 8",
+      "club" : "RB Leipzig",
+      "marketValue" : 179.0
+    },
+    {
+      "name" : "Vinicius Alexander-Arnold 9",
+      "club" : "RB Leipzig",
+      "marketValue" : 179.0
+    }
+  ],
+  "highest_paid_players" : [
+    {
+      "name" : "Romelu Bellingham",
+      "club" : "Nice",
+      "salary" : 48.5
+    },
+    {
+      "name" : "Romelu Bellingham 1",
+      "club" : "Nice",
+      "salary" : 48.5
+    },
+    {
+      "name" : "Romelu Bellingham 2",
+      "club" : "Nice",
+      "salary" : 48.5
+    },
+    {
+      "name" : "Romelu Bellingham 3",
+      "club" : "Nice",
+      "salary" : 48.5
+    },
+    {
+      "name" : "Romelu Bellingham 4",
+      "club" : "Nice",
+      "salary" : 48.5
+    },
+    {
+      "name" : "Romelu Bellingham 5",
+      "club" : "Nice",
+      "salary" : 48.5
+    },
+    {
+      "name" : "Romelu Bellingham 6",
+      "club" : "Nice",
+      "salary" : 48.5
+    },
+    {
+      "name" : "Romelu Bellingham 7",
+      "club" : "Nice",
+      "salary" : 48.5
+    },
+    {
+      "name" : "Romelu Bellingham 8",
+      "club" : "Nice",
+      "salary" : 48.5
+    },
+    {
+      "name" : "Romelu Bellingham 9",
+      "club" : "Nice",
+      "salary" : 48.5
+    }
+  ],
+  "players_by_league" : {
+    "Ligue 1" : 2500,
+    "Bundesliga" : 1200,
+    "Serie A" : 1800,
+    "La Liga" : 2000,
+    "Premier League" : 2500
+  },
+  "players_by_position" : {
+    "Midfielder" : 2300,
+    "Forward" : 2800,
+    "Goalkeeper" : 2400,
+    "Defender" : 2500
+  },
+  "average_age_by_position" : {
+    "Midfielder" : 26.565217391304348,
+    "Forward" : 27.071428571428573,
+    "Goalkeeper" : 27.875,
+    "Defender" : 29.04
+  },
+  "average_goals_by_position" : {
+    "Midfielder" : 0.3862520458265139,
+    "Forward" : 0.9694189602446484,
+    "Goalkeeper" : 0.0,
+    "Defender" : 0.15275813295615276
+  },
+  "discipline_statistics" : {
+    "total_yellow_cards" : 47300,
+    "total_red_cards" : 9500,
+    "most_disciplined_position" : "Midfielder",
+    "least_disciplined_position" : "Goalkeeper"
+  },
+  "top_goal_contribution_per_match" : [
+    {
+      "name" : "N'Golo Haaland",
+      "club" : "Union Berlin",
+      "goals" : 31,
+      "assists" : 13,
+      "matches" : 10,
+      "contribution_per_match" : 4.4
+    },
+    {
+      "name" : "N'Golo Haaland 1",
+      "club" : "Union Berlin",
+      "goals" : 31,
+      "assists" : 13,
+      "matches" : 10,
+      "contribution_per_match" : 4.4
+    },
+    {
+      "name" : "N'Golo Haaland 2",
+      "club" : "Union Berlin",
+      "goals" : 31,
+      "assists" : 13,
+      "matches" : 10,
+      "contribution_per_match" : 4.4
+    },
+    {
+      "name" : "N'Golo Haaland 3",
+      "club" : "Union Berlin",
+      "goals" : 31,
+      "assists" : 13,
+      "matches" : 10,
+      "contribution_per_match" : 4.4
+    },
+    {
+      "name" : "N'Golo Haaland 4",
+      "club" : "Union Berlin",
+      "goals" : 31,
+      "assists" : 13,
+      "matches" : 10,
+      "contribution_per_match" : 4.4
+    },
+    {
+      "name" : "N'Golo Haaland 5",
+      "club" : "Union Berlin",
+      "goals" : 31,
+      "assists" : 13,
+      "matches" : 10,
+      "contribution_per_match" : 4.4
+    },
+    {
+      "name" : "N'Golo Haaland 6",
+      "club" : "Union Berlin",
+      "goals" : 31,
+      "assists" : 13,
+      "matches" : 10,
+      "contribution_per_match" : 4.4
+    },
+    {
+      "name" : "N'Golo Haaland 7",
+      "club" : "Union Berlin",
+      "goals" : 31,
+      "assists" : 13,
+      "matches" : 10,
+      "contribution_per_match" : 4.4
+    },
+    {
+      "name" : "N'Golo Haaland 8",
+      "club" : "Union Berlin",
+      "goals" : 31,
+      "assists" : 13,
+      "matches" : 10,
+      "contribution_per_match" : 4.4
+    },
+    {
+      "name" : "N'Golo Haaland 9",
+      "club" : "Union Berlin",
+      "goals" : 31,
+      "assists" : 13,
+      "matches" : 10,
+      "contribution_per_match" : 4.4
+    }
+  ],
+  "top_discipline_risk_per_match" : [
+    {
+      "name" : "Jack Mbappé",
+      "club" : "Tottenham",
+      "yellow" : 10,
+      "red" : 2,
+      "matches" : 13,
+      "risk_per_match" : 1.2307692307692308
+    },
+    {
+      "name" : "Jack Mbappé 1",
+      "club" : "Tottenham",
+      "yellow" : 10,
+      "red" : 2,
+      "matches" : 13,
+      "risk_per_match" : 1.2307692307692308
+    },
+    {
+      "name" : "Jack Mbappé 2",
+      "club" : "Tottenham",
+      "yellow" : 10,
+      "red" : 2,
+      "matches" : 13,
+      "risk_per_match" : 1.2307692307692308
+    },
+    {
+      "name" : "Jack Mbappé 3",
+      "club" : "Tottenham",
+      "yellow" : 10,
+      "red" : 2,
+      "matches" : 13,
+      "risk_per_match" : 1.2307692307692308
+    },
+    {
+      "name" : "Jack Mbappé 4",
+      "club" : "Tottenham",
+      "yellow" : 10,
+      "red" : 2,
+      "matches" : 13,
+      "risk_per_match" : 1.2307692307692308
+    },
+    {
+      "name" : "Jack Mbappé 5",
+      "club" : "Tottenham",
+      "yellow" : 10,
+      "red" : 2,
+      "matches" : 13,
+      "risk_per_match" : 1.2307692307692308
+    },
+    {
+      "name" : "Jack Mbappé 6",
+      "club" : "Tottenham",
+      "yellow" : 10,
+      "red" : 2,
+      "matches" : 13,
+      "risk_per_match" : 1.2307692307692308
+    },
+    {
+      "name" : "Jack Mbappé 7",
+      "club" : "Tottenham",
+      "yellow" : 10,
+      "red" : 2,
+      "matches" : 13,
+      "risk_per_match" : 1.2307692307692308
+    },
+    {
+      "name" : "Jack Mbappé 8",
+      "club" : "Tottenham",
+      "yellow" : 10,
+      "red" : 2,
+      "matches" : 13,
+      "risk_per_match" : 1.2307692307692308
+    },
+    {
+      "name" : "Jack Mbappé 9",
+      "club" : "Tottenham",
+      "yellow" : 10,
+      "red" : 2,
+      "matches" : 13,
+      "risk_per_match" : 1.2307692307692308
+    }
+  ],
+  "best_value_for_money" : [
+    {
+      "name" : "Neymar Ramos",
+      "club" : "Real Betis",
+      "goals" : 17,
+      "assists" : 8,
+      "salary" : 1.3,
+      "contrib_per_million" : 19.23076923076923
+    },
+    {
+      "name" : "Neymar Ramos 1",
+      "club" : "Real Betis",
+      "goals" : 17,
+      "assists" : 8,
+      "salary" : 1.3,
+      "contrib_per_million" : 19.23076923076923
+    },
+    {
+      "name" : "Neymar Ramos 2",
+      "club" : "Real Betis",
+      "goals" : 17,
+      "assists" : 8,
+      "salary" : 1.3,
+      "contrib_per_million" : 19.23076923076923
+    },
+    {
+      "name" : "Neymar Ramos 3",
+      "club" : "Real Betis",
+      "goals" : 17,
+      "assists" : 8,
+      "salary" : 1.3,
+      "contrib_per_million" : 19.23076923076923
+    },
+    {
+      "name" : "Neymar Ramos 4",
+      "club" : "Real Betis",
+      "goals" : 17,
+      "assists" : 8,
+      "salary" : 1.3,
+      "contrib_per_million" : 19.23076923076923
+    },
+    {
+      "name" : "Neymar Ramos 5",
+      "club" : "Real Betis",
+      "goals" : 17,
+      "assists" : 8,
+      "salary" : 1.3,
+      "contrib_per_million" : 19.23076923076923
+    },
+    {
+      "name" : "Neymar Ramos 6",
+      "club" : "Real Betis",
+      "goals" : 17,
+      "assists" : 8,
+      "salary" : 1.3,
+      "contrib_per_million" : 19.23076923076923
+    },
+    {
+      "name" : "Neymar Ramos 7",
+      "club" : "Real Betis",
+      "goals" : 17,
+      "assists" : 8,
+      "salary" : 1.3,
+      "contrib_per_million" : 19.23076923076923
+    },
+    {
+      "name" : "Neymar Ramos 8",
+      "club" : "Real Betis",
+      "goals" : 17,
+      "assists" : 8,
+      "salary" : 1.3,
+      "contrib_per_million" : 19.23076923076923
+    },
+    {
+      "name" : "Neymar Ramos 9",
+      "club" : "Real Betis",
+      "goals" : 17,
+      "assists" : 8,
+      "salary" : 1.3,
+      "contrib_per_million" : 19.23076923076923
+    }
+  ]
+}
